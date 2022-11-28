@@ -1,4 +1,4 @@
-package examples;
+package examples.Apartado2Apuntes;
 
 import java.io.BufferedReader;
 import java.io.IOException;
